@@ -1,0 +1,1 @@
+<p class="primary-color semibold price-big">Rp. <?php echo number_format($jadwal_berangkat->harga,0,",","."); ?><span class="semibold subtitle">&nbsp;/ Per Orang</span> </p>
